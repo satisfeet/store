@@ -1,0 +1,21 @@
+{
+
+  "store": {
+    "url": "mongodb://localhost/test"
+  },
+
+  "engine": {
+    "styles": {
+      "once": true,
+      "compress": true,
+      "yuicompress": true
+    }
+  },
+
+  "server": {
+    "port": 3000
+  },
+
+  "trust proxy": true
+
+}

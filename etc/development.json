@@ -1,0 +1,23 @@
+{
+
+  "store": {
+    "url": "mongodb://localhost/test"
+  },
+
+  "engine": {
+    "builder": {
+      "debug": true
+    },
+    "styles": {
+      "force": true
+    },
+    "views": {
+      "cache": false
+    }
+  },
+
+  "server": {
+    "port": 3000
+  }
+
+}
