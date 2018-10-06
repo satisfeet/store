@@ -1,5 +1,7 @@
 # satisfeet-store
 
+![screenshot](https://user-images.githubusercontent.com/1780466/46574886-21e44a00-c9ab-11e8-8757-d82b23f32bd0.png)
+
 The node.js powered web application store for satisfeet.
 
 ## Installation
