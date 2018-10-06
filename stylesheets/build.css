@@ -3894,8 +3894,8 @@ td.visible-print {
   font-family: 'ralweway';
   font-weight: 100;
   font-style: normal;
-  src: url('/fonts/raleway.eot');
-  src: url('/fonts/raleway.eot?#iefix') format('embedded-opentype'), url('/fonts/raleway.woff') format('woff'), url('/fonts/raleway.ttf') format('truetype');
+  src: url('../fonts/raleway.eot');
+  src: url('../fonts/ralewayd41d.eot?#iefix') format('embedded-opentype'), url('../fonts/raleway.woff') format('woff'), url('../fonts/raleway.ttf') format('truetype');
 }
 body {
   padding-top: 70px;
