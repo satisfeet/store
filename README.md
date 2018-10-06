@@ -8,19 +8,33 @@ The node.js powered web application store for satisfeet.
 
 Clone the repository:
 
-  git clone https://github.com/bodokaiser/satisfeet-store.git
+```
+git clone https://github.com/bodokaiser/satisfeet-store.git
+```
 
 Install dependencies:
 
-  npm install 
+```
+npm install
+```
   
 Load data:
 
-  make data-create
+```
+make data-create
+```
+
+Create directories:
+
+```
+mkdir -p srv/stylesheets srv/javascripts
+```
 
 Start server:
 
-  npm start
+```
+npm start
+```
 
 You will get a lot deprecation warning. The initial code from 2014 does not
 work anymore due to npm package changes.
